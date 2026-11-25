@@ -1,0 +1,12 @@
+GUSTAVO SANTOS — SITE V6
+
+Para publicar: envie index.html e social-preview.jpg para a mesma pasta pública.
+1. Confirme o domínio HTTPS e acrescente a URL canônica (rel=canonical) e og:url no head.
+2. Troque os valores de og:image e twitter:image pela URL HTTPS absoluta de social-preview.jpg.
+3. Substitua as buscas do Google Maps pelo link oficial do Perfil da Empresa e acrescente o link oficial para avaliações, após confirmação. O site não está conectado à conta Google.
+4. Publique apenas depoimentos autênticos autorizados. Não invente notas, nomes ou relatos.
+5. Confirme telefone, Instagram, localidades, qualificações e autorização da foto de atendimento.
+6. Após publicação, valide a URL no Google Search Console; configure sitemap e robots.txt conforme o domínio e ambiente.
+7. Teste a prévia do compartilhamento e o envio de mensagens. O formulário apenas prepara a mensagem; não confirma horários.
+
+Os arquivos de imagens principais estão incorporados ao HTML; as fontes dependem de Google Fonts, com alternativas locais.
